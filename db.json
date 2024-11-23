@@ -1,12 +1,14 @@
 {
   "livres": [
-    {"id":"1",
-      "titre":"As You Like It","num_pages":"256","auteur":"William Shakespeare","description":"\"As You Like It\" is a comedy by William Shakespeare written in 1599, originally published in the First Folio, in 1623. The circumstances of the first performance are uncertain, one possibility being at Wilton House, in 1603. The The play is particularly known for Jacques' monologue, beginning with All the world's a stage.\r\n","stock_vente":"100","stock_louer":"50","prix_vente":"40","prix_louer":"20","langue":"anglais","categorie":"comedie","image":".assets\/image\/AnglaisHistoire.jpg"},
-    {"id":"2","titre":"Les Liaisons Dangereuses","num_pages":"473","auteur":"Pierre Choderlos de Laclos","description":"\"Les Liaisons dangereuses\" is a subtitled Letters collected in a society and published for the instruction of a few others, is an epistolary novel of 175 letters, written from 1779 by Pierre Choderlos de Laclos and published in 1782.","stock_vente":"50","stock_louer":"30","prix_vente":"65","prix_louer":"20","langue":"français","categorie":"romance","image":".assets\/image\/FrRomantique2.jpg"},
-    {"id":"3","titre":"Harry Potter A l'ecole des Sor","num_pages":"305","auteur":"j.k Rowling","description":"\"Harry Potter à l'école des sorciers \"(Harry Potter and the Philosopher's Stone) is the first novel in the literary series centered on the character of Harry Potter, created by J. K. Rowling. Released in London on June 26, 19972, it was initially printed in 500 copies, then enjoyed growing success over the months. In 2001, the volume was adapted for cinema","stock_vente":"120","stock_louer":"60","prix_vente":"89","prix_louer":"20","langue":"français","categorie":"aventure","image":".assets\/image\/AnglaisHistoire2.jpg"},
-    {"id":"4","titre":"ثلاثية الاندلس","num_pages":"502","auteur":"abd al wahad brahem","description":"This imaginative journey contains a large share of the writer's visions, his perception of events, and the restructuring of the main characters. The basic premise is authentic and historical. The terrible event is a reality that real people lived through and tasted the sweet and the bitter.","stock_vente":"50","stock_louer":"60","prix_vente":"30","prix_louer":"15","langue":"arabe","categorie":"histoire","image":".assets\/image\/ArabeAventure2.jpg"},
-    {"id":"5","titre":"JULIUS CAESAR","num_pages":"288","auteur":"William Shakespeare","description":"\"Julius Caesar\" is a tragedy by William Shakespeare, probably written in 1599 and first published in 1623. Staged for the opening of the Globe Theater in London, it relates the conspiracy against Julius Caesar, his assassination and its consequences.","stock_vente":"10","stock_louer":"20","prix_vente":"26.5","prix_louer":"12.5","langue":"anglais","categorie":"histoire","image":".assets\/image\/Anglais_histoire.jpg"},
-    {"id":"6","titre":" أرض زيكولا","num_pages":"279","auteur":"Amro Abd Hamid","description":"It is a fictional novel that describes a world parallel to our world. Its hero is a young man from the village of Al-Baho ​​Fariq who finds himself one day in a land that does not deal with money like other people, and instead uses units of intelligence. Every work for money in our land is equivalent to a certain value of units of intelligence.","stock_vente":"50","stock_louer":"50","prix_vente":"50.3","prix_louer":"23.3","langue":"arabe","categorie":"philosophie","image":".\/assets\/image\/5ArabePhilo.jpg"},
-    {"id":"7","titre":"On ne Baddine pas avec L'amour","num_pages":"204","auteur":"Musset","description":" \"On ne Baddine pas avec L'amour\" is a play in three acts by Alfred de Musset, published in 1834 in the Revue des deux Mondes and performed on November 18, 1861 at the Comédie-Française.","stock_vente":"10","stock_louer":"9","prix_vente":"35.5","prix_louer":"10.5","langue":"français","categorie":"romance","image":".assets\/image\/frRomantique3.jpg"},
+    {
+      "id":"1",
+      "titre":"As You Like It",
+      "num_pages":"256",
+    }
+    {
+      "id":"7",
+      "titre":"On ne Baddine pas avec L'amour",
+      "num_pages":"204","auteur":"Musset"
+    }
   ]
 }
