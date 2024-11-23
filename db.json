@@ -1,14 +1,14 @@
 {
   "livres": [
     {
-      "id":"1",
+      "id": 1,
       "titre":"As You Like It",
-      "num_pages":"256",
+      "num_pages":"256"
     }
     {
-      "id":"7",
+      "id":2,
       "titre":"On ne Baddine pas avec L'amour",
-      "num_pages":"204","auteur":"Musset"
+      "num_pages":"204"
     }
   ]
 }
